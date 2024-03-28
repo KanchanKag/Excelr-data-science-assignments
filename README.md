@@ -1,9 +1,12 @@
 # Exelr-data-science-assignments
 What's Inside
+
 This repository contains my data science assignments . Each assignment folder includes:
 
 Notebooks: Jupyter notebooks where I completed the assignments.
+
 Data: Any necessary data files for the assignments.
+
 Results: If applicable, any output files or results generated from the assignments.
 
 How to Use
