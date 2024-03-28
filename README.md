@@ -21,4 +21,4 @@ Open Notebook: Open the Jupyter notebook (.ipynb file) associated with the assig
 Run Code: Run the code cells in the notebook to see the assignment solutions and results.
 
 
-Association rules/association_rules_assignment.ipynb
+
