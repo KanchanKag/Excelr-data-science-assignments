@@ -19,3 +19,6 @@ Navigate to Assignment: Go to the specific assignment folder you're interested i
 Open Notebook: Open the Jupyter notebook (.ipynb file) associated with the assignment.
 
 Run Code: Run the code cells in the notebook to see the assignment solutions and results.
+
+
+Association rules/association_rules_assignment.ipynb
